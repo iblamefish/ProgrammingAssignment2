@@ -57,6 +57,5 @@ cacheSolve <- function(x, ...) {
     x$setSolve(inverse)
   }
 
-  # 
   inverse
 }
